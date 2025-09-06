@@ -32,3 +32,6 @@ This repository contains the code to train and evaluate a segmentation model for
 10. **View Results**
 
        The output of the model - masks and overlaid image will be saved in `results/` directory.
+
+
+Similar results can be obtained for the `bracket_brown` variant as well.
