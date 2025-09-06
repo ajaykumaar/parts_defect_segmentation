@@ -1,0 +1,15 @@
+Epoch [1/15] | Train Loss: 0.3495 | Val Loss: 0.4353 | Val IoU: 0.7761
+Epoch [2/15] | Train Loss: 0.3438 | Val Loss: 0.4302 | Val IoU: 0.7712
+Epoch [3/15] | Train Loss: 0.3196 | Val Loss: 0.4131 | Val IoU: 0.7262
+Epoch [4/15] | Train Loss: 0.3011 | Val Loss: 0.4081 | Val IoU: 0.7658
+Epoch [5/15] | Train Loss: 0.2907 | Val Loss: 0.3826 | Val IoU: 0.7782
+Epoch [6/15] | Train Loss: 0.2606 | Val Loss: 0.3862 | Val IoU: 0.7706
+Epoch [7/15] | Train Loss: 0.2709 | Val Loss: 0.4020 | Val IoU: 0.7616
+Epoch [8/15] | Train Loss: 0.2840 | Val Loss: 0.3656 | Val IoU: 0.7748
+Epoch [9/15] | Train Loss: 0.3398 | Val Loss: 0.3570 | Val IoU: 0.7808
+Epoch [10/15] | Train Loss: 0.2320 | Val Loss: 0.3553 | Val IoU: 0.7852
+Epoch [11/15] | Train Loss: 0.2521 | Val Loss: 0.3969 | Val IoU: 0.7596
+Epoch [12/15] | Train Loss: 0.2772 | Val Loss: 0.3535 | Val IoU: 0.7834
+Epoch [13/15] | Train Loss: 0.2469 | Val Loss: 0.3501 | Val IoU: 0.7861
+Epoch [14/15] | Train Loss: 0.2232 | Val Loss: 0.3446 | Val IoU: 0.7857
+Epoch [15/15] | Train Loss: 0.2060 | Val Loss: 0.3841 | Val IoU: 0.7649
